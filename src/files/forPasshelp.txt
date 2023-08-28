@@ -1,0 +1,18 @@
+	Welcome to WAPV
+
+follow the following steps in case you "forgot your Password".
+
+step 1) Enter the username in "username" text field.
+
+step 2) Click on the "Search icon" next to the "username" text field.
+
+_____ If you enter username that which have an user then it will automatically retrive the name and security queestion for you.
+
+______If username is not valid make sure you have an account.
+
+step 3) After retriving just enter the "answer" of question in answer text field.///**
+
+step 4) Then Boom It will retrive your Password in Password text Field...
+
+____Thank you ____ 
+
